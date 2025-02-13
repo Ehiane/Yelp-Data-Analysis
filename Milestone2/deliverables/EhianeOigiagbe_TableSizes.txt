@@ -1,0 +1,32 @@
+milestone1db=# SELECT COUNT(*) FROM Business;
+ count
+-------
+ 11481
+(1 row)
+
+
+milestone1db=#
+milestone1db=# -- Verify Users Data
+milestone1db=# SELECT COUNT(*) FROM Users;
+ count
+--------
+ 192999
+(1 row)
+
+
+milestone1db=#
+milestone1db=# -- Verify Review Data
+milestone1db=# SELECT COUNT(*) FROM Review;
+ count
+--------
+ 416479
+(1 row)
+
+
+milestone1db=#
+milestone1db=# -- Verify Checkin Data
+milestone1db=# SELECT COUNT(*) FROM Checkin;
+ count
+--------
+ 474399
+(1 row)
