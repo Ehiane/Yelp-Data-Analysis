@@ -18,22 +18,6 @@ This project was built for **CPTS 451 - Database Systems** at Washington State U
 - **Visualization:** Matplotlib  
 - **ETL:** Custom scripts for parsing and inserting JSON into PostgreSQL
 
-## 📁 Folder Structure
-
-Yelp-Data-Analysis/
-├── Milestone1/
-│ ├── CptS451_Online_parseJSON.py
-│ ├── insert_csv_to_postgreSQL.py
-│ ├── *.csv / *.JSON datasets
-│ └── *.sql & ER diagrams
-├── Milestone2/
-│ ├── deliverables/
-│ │ ├── application.py
-│ │ ├── update.sql
-│ │ └── analysis.pdf
-│ └── queryResults/
-│ └── *.png visualizations
-
 
 
 ## 🧪 Sample Queries
