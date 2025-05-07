@@ -19,6 +19,7 @@ This project was built for **CPTS 451 - Database Systems** at Washington State U
 - **ETL:** Custom scripts for parsing and inserting JSON into PostgreSQL
 
 ## 📁 Folder Structure
+
 Yelp-Data-Analysis/
 ├── Milestone1/
 │ ├── CptS451_Online_parseJSON.py
