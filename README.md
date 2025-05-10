@@ -2,6 +2,11 @@
 
 This project was built for **CPTS 451 - Database Systems** at Washington State University. It showcases an end-to-end ETL pipeline and web application for analyzing large-scale Yelp data across business, user, and check-in datasets. Built using Python, SQLAlchemy, and PostgreSQL, the application enables exploratory analysis and meaningful insights through dynamic query options and visualizations.
 
+## Youtube Video
+[![Watch the video](https://img.youtube.com/vi/VPdj3VkV9Es/maxresdefault.jpg)](https://youtu.be/VPdj3VkV9Es)
+
+### [CPTS 451 - Milestone 3 and final project](https://youtu.be/VPdj3VkV9Es)
+
 ## 🔍 Features
 
 - ✅ **City/State Search:** Find all businesses in a specific city and state.
